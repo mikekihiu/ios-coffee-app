@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Latte",
+    "ingredients": [
+      "Milk Foam",
+      "1/3 Steamed Milk",
+      "2/3 Espresso"
+    ]
+  },
+  {
+    "name": "Americano",
+    "ingredients": [
+      "2/3 Water",
+      "1/3 Espresso"
+    ]
+  },
+  {
+    "name": "Espresso",
+    "ingredients": [
+      "Espresso (1 Shot)"
+    ]
+  },
+  {
+    "name": "Breve",
+    "ingredients": [
+      "2/3 Steamed Half & Half",
+      "1/3 Espresso"
+    ]
+  },
+  {
+    "name": "Flat White",
+    "ingredients": [
+      "2/3 Steamed Milk",
+      "1/3 Espresso"
+    ]
+  },
+  {
+    "name": "Cappucino",
+    "ingredients": [
+      "1/3 Milk Foam",
+      "1/3 Hot Milk",
+      "1/3 Espresso"
+    ]
+  },
+  {
+    "name": "Mocha",
+    "ingredients": [
+      "1/5 Steamed Milk",
+      "2/5 Chocolate",
+      "2/5 Espresso"
+    ]
+  },
+  {
+    "name": "Caffe Affogato",
+    "ingredients": [
+      "2/5 Espresso",
+      "3/5 Vanilla Ice Cream"
+    ]
+  },
+  {
+    "name": "Galao",
+    "ingredients": [
+      "3/4 Steamed Milk",
+      "1/4 Espresso"
+    ]
+  },
+  {
+    "name": "Macchiato",
+    "ingredients": [
+      "Dash of Steamed Milk",
+      "Double Shot Espresso"
+    ]
+  },
+  {
+    "name": "Cafe au Lait",
+    "ingredients": [
+      "1/2 Steamed Milk",
+      "1/2 Coffee"
+    ]
+  },
+  {
+    "name": "Iced Coffee",
+    "ingredients": [
+      "Ice Cubes",
+      "Chilled Coffee"
+    ]
+  }
+]
